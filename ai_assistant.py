@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyC5L2k8ZflIpS--TY6IsA2R4Sxp5IGRxrY")
+client = genai.Client(api_key="YOUR_API_KEY_HERE")
 
 system_prompt = "You are a professional email writer. Write formal, concise emails only."
 
