@@ -12,6 +12,7 @@ Production-ready AI-powered Python applications built with Google Gemini API.
 | chatbot.py | Multi-turn conversational chatbot |
 | save_output.py | Automated AI report generator |
 | customer_support_bot.py | Business customer support bot with chat logging |
+| report_generator.py | Structured AI report generator with dynamic filename and word count |
 
 ## Tech Stack
 
