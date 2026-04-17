@@ -1,6 +1,10 @@
 from google import genai
+from dotenv import load_dotenv
+import os
 
-client = genai.Client(api_key="YOUR_API_KEY_HERE")
+load_dotenv()
+
+client = genai.Client(api_key=os.getenv("API_KEY"))
 
 user_input = input("What report do you want? ")
 

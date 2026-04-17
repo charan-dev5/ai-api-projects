@@ -1,0 +1,16 @@
+Date,Product,Category,Units_Sold,Unit_price,Revenue,Region,Salesperson
+2024-01-05,Laptop Pro,Electronics,3,45000,135000,North,Rahul
+2024-01-08,iPhone 15,Electronics,5,80000,400000,South,Priya
+2024-01-10,Office Chair,Furniture,8,12000,96000,West,Amit
+2024-01-12,Laptop Pro,Electronics,2,45000,90000,East,Sneha
+2024-01-15,Wireless Mouse,Accessories,20,1500,30000,North,Rahul
+2024-01-18,iPhone 15,Electronics,3,80000,240000,West,Amit
+2024-01-20,Standing Desk,Furniture,4,25000,100000,South,Priya
+2024-01-22,Laptop Pro,Electronics,6,45000,270000,North,Rahul
+2024-01-25,Keyboard,Accessories,15,3000,45000,East,Sneha
+2024-01-28,iPhone 15,Electronics,7,80000,560000,South,Priya
+2024-02-02,Standing Desk,Furniture,3,25000,75000,North,Rahul
+2024-02-05,Laptop Pro,Electronics,4,45000,180000,West,Amit
+2024-02-08,Wireless Mouse,Accessories,25,1500,37500,South,Priya
+2024-02-10,iPhone 15,Electronics,4,80000,320000,East,Sneha
+2024-02-15,Office Chair,Furniture,6,12000,72000,North,Rahul

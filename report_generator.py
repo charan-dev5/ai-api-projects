@@ -1,7 +1,11 @@
 from google import genai
+from dotenv import load_dotenv
+import os
 import datetime
 
-client = genai.Client(api_key="YOUR_API_KEY_HERE")
+load_dotenv()
+
+client = genai.Client(api_key=os.getenv("API_KEY"))
 
 print("=== AI Report Generator ===\n")
 

@@ -13,6 +13,7 @@ Production-ready AI-powered Python applications built with Google Gemini API.
 | save_output.py | Automated AI report generator |
 | customer_support_bot.py | Business customer support bot with chat logging |
 | report_generator.py | Structured AI report generator with dynamic filename and word count |
+| data_analyzer.py | AI-Powered CSV data analyzer with pandas integration |
 
 ## Tech Stack
 
