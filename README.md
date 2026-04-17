@@ -14,7 +14,7 @@ Production-ready AI-powered Python applications built with Google Gemini API.
 | customer_support_bot.py | Business customer support bot with chat logging |
 | report_generator.py | Structured AI report generator with dynamic filename and word count |
 | data_analyzer.py | AI-Powered CSV data analyzer with pandas integration |
-
+| email_writer.py | AI email generator with tone and type control |
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
