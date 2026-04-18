@@ -15,6 +15,7 @@ Production-ready AI-powered Python applications built with Google Gemini API.
 | report_generator.py | Structured AI report generator with dynamic filename and word count |
 | data_analyzer.py | AI-Powered CSV data analyzer with pandas integration |
 | email_writer.py | AI email generator with tone and type control |
+| advanced_chatbot.py | Advanced chatbot with custom personality and timestamped chat logs |
 
 ## Tech Stack
 
